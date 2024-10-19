@@ -1,0 +1,17 @@
+[
+    {
+        "file": "survey1.json",
+        "title": "Customer Feedback Survey",
+        "description": "We value your feedback. Please complete this short survey to help us improve."
+    },
+    {
+        "file": "survey2.json",
+        "title": "Employee Satisfaction Survey",
+        "description": "Please take this survey to help us improve workplace conditions."
+    },
+    {
+        "file": "survey3.json",
+        "title": "Product Experience Survey",
+        "description": "We want to know about your experience with our product."
+    }
+]
